@@ -2,4 +2,5 @@
 
 1) Recursion
 2) Arrays
-3) Stacks
+3) Stack
+4) Queue
